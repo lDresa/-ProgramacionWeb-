@@ -1,0 +1,95 @@
+body {
+    background-color: #FAFAFA;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 48px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 36px;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.p_description {
+    text-align: center;
+}
+
+.ft-icon {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+.mini-text {
+    text-align: center;
+    color: gray;
+}
+
+.support-img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 700px
+}
+
+#featurelist {
+    background-color: #fffce6;
+    padding: 30px;
+}
+
+#yt-categories {
+    text-align: center;
+}
+
+#yt-categories #categories ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.mini-desc {
+    text-align: center;
+    font-size: 12px;
+}
+
+#signup {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#sign-up {
+    padding: 20px;
+}
+
+#featureslist2 {
+    padding: 30px;
+}
+
+.features-list {
+    padding: 10px;
+}
+
+#button-signup {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+    padding: 20px;
+    background-color: #FFDD00;
+    border: none;
+    border-radius: 40px;
+    font-size: 14px;
+}
+
+
