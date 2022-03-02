@@ -1,0 +1,143 @@
+.heading {
+    background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,178,178,1) 100%);
+}
+
+.description {
+    text-align: center;
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+
+h3 {
+    font-weight: bold;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(163, 86, 235);
+}
+.cta-div {
+    padding-bottom: 2%;
+}
+.cta {
+    background-color: rgb(163, 86, 235);
+    text-decoration: none;
+    color: azure;
+    padding: 14px;
+    border-radius: 5px;
+}
+
+.section-heading {
+    padding: 5%;
+    margin: auto;
+    text-align: center;
+    max-width: 50%;
+}
+
+.img-preview {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+    filter: drop-shadow(5px 5px 10px rgb(107, 107, 107));
+}
+
+.company-logo {
+    max-width: 150px;
+}
+
+.quote {
+    background-color: #ffcaac;
+    margin: auto;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    width: 50%;
+    padding: 5%;
+    border-radius: 20px;
+}
+
+.quote-text {
+    font-size: 24px;
+}
+
+.company-logo-slot {
+    background-color: rgb(245, 245, 245);
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+    margin: 2%;
+}
+
+.logo-slot {
+    max-width: 200px;
+}
+
+footer {
+    background-color: rgb(255, 242, 218);
+    padding: 2%;
+}
+
+.explore {
+    display: flex;
+}
+
+.hardware-integration {
+    background: rgb(255,191,184);
+background: linear-gradient(90deg, rgba(255,191,184,1) 0%, rgba(255,233,198,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+
+#img-main-connect {
+    max-width: 800px;
+}
+
+.introducing-protopie {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.introducing-text {
+    padding: 7%;
+}
+
+#whats-new {
+    max-width: 700px;
+}
+
+.try-img {
+    max-width: 500px;
+}
+
+.try-protopie {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
