@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Executing a Function on Ready Event in jQuery</title>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script>
+$(document).ready(function(){
+    $(".normal-text").text("This text informs that the DOM is loaded and is safe to manipulate. Otherwise, it'd show this text below:");
+});
+</script>
+</head>
+<body>
+    <p class="normal-text">Not loaded yet.</p>
+    <p>Not loaded yet.</p>
+</body>
+</html>
